@@ -1,0 +1,5 @@
+Klasy:
+- kalendarz (rok, miesiąc, dzień)
+kalendarz metody: utworzenie wydarzenia
+- wydarzenia (data z kalendarza, godzina, opis)
+wydarzenia metody: utworzenie, edycja, usunięcie
